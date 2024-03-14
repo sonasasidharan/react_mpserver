@@ -1,0 +1,8 @@
+json-server
+
+-initiate pacage.json
+        npm init -y
+-create pacage-locl-json
+        npm i
+-install json server
+        npm i json-server[node module create automatically]
